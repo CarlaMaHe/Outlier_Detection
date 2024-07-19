@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 #Bedingungen fuer Pierce Kompatibilitaet festlegen 
 st.title('outlier detection')
 st.write('Please upload your data without units as one column and a categorie name of your choice.')
